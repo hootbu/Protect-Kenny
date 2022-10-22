@@ -1,4 +1,4 @@
-# Protect Kenny
+# Protect Kenny Android Game
 
 *We are trying to keep Kenny alive by solving high school chemistry questions.*
 
